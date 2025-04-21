@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Description
+A minimal and dynamic blog platform built for startup enthusiasts, founders, and tech explorers. Share insights, publish stories, and stay updated with the latest in product, tech, and startup life — all in one place.
+
 ## Getting Started
 
 First, run the development server:
